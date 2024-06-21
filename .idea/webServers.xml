@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b74d899-3dd2-475c-bc33-e03ed6ba4b97" name="3090BMR">
+        <fileTransfer rootFolder="/home/houjiao/CodeFiles/work/BMR" accessType="SFTP" host="172.31.233.209" port="2223" sshConfigId="8fb8c795-dadc-4cb7-abad-681f34e3fef9" sshConfig="3090houjiao@172.31.233.209:2223">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
